@@ -1,0 +1,24 @@
+.main-card{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    margin-top: 25px;
+    width: 300px;
+    height: 400px;
+    margin-bottom: 4px;
+}
+
+.h1{
+    text-align: center;
+    margin-top: 7px;
+}
+
+.card img{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
